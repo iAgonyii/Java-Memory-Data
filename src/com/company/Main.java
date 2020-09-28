@@ -31,3 +31,4 @@ public class Main {
         System.out.println((i*f==1.0f));
     }
 }
+
